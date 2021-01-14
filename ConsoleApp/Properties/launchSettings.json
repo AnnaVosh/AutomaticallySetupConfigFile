@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "ConsoleApp (Dev)": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Dev"
+      }
+    },
+    "ConsoleApp (Testing)": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Testing"
+      }
+    }
+  }
+}
